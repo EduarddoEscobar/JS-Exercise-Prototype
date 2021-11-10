@@ -119,10 +119,10 @@ Baby.prototype.play = function(){
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Implicit Binding - The object that comes before the .
+  2. Explicit Binding - The object that is being referenced with a function
+  3. New Binding - The object that is being created in a constructor 
+  4. Default Binding - Returns the global object, window object or undefined
 */
 
 
